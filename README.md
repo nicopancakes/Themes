@@ -1,2 +1,2 @@
-# SDRPP-Mods
-Modifications for SDR++
+# OWO++
+A Modificiation Manager for SDR++
